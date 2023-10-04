@@ -13,6 +13,7 @@ Utils i use for faster working on my games
 - [Toolbar Extender](https://github.com/marijnz/unity-toolbar-extender) - More Inspector buttons
 - [Naughty Attributes](https://github.com/dbrizov/NaughtyAttributes) - Free brother of Odin Inspector
 - [Rainbow folders (free)](https://github.com/PhannGor/unity3d-rainbow-folders) - Neat editor folders coloring
+- [Replace Auto-compiler with Ctrl+R](https://github.com/AwixStudio/DisableAutoCompiler)
 - [Lock Inspector with Ctrl+L](https://github.com/SolidAlloy/EasyShortcutLockInspector)
 - [Optional Variables](https://gist.github.com/aarthificial/f2dbb58e4dbafd0a93713a380b9612af)
 - [Mulligan ReNamer](https://github.com/redbluegames/unity-mulligan-renamer) - GOAT for project cleanup
