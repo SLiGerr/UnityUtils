@@ -26,7 +26,8 @@ Utils i use for faster working on my games
 - [File based Player Prefs (FBPP)](https://github.com/richardelms/FileBasedPlayerPrefs) - prefs as file instead of PlayerPrefs
 - [Service Locator](https://github.com/Claytonious/Frictionless) - imo GOAT service locator
 - [Dev Console](https://github.com/anarkila/DeveloperConsole) - command line from game view or build (Like quantum console)
-- [Runtime Editor](https://github.com/yasirkula/UnityRuntimeInspector) - hierarchy view inside game 
+- [Runtime Editor](https://github.com/yasirkula/UnityRuntimeInspector) - hierarchy view inside game
+- [Animator States Codegen](https://github.com/SLiGerr/Animator-Enum-Codegen) - create Enums from all animator controllers inside project 
 
 **Other Stuff**
 - [Some shaders](https://github.com/adrian-miasik/unity-shaders) - Urp Supported
